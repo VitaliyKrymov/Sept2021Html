@@ -1,6 +1,4 @@
-hello
-world
-Hello World!!!
 
+Hello World!!!
 I do homework.
 Else
